@@ -3,5 +3,6 @@
 // suivi du nom associé au paramètre $_GET
 // nom mais il ne fonctionne pas de la 
 // manière attendue ..
+echo "Hello World ".$argv[0];
 echo "Hello World ".$argv(0];
 ?>
